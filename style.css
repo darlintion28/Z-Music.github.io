@@ -1,3 +1,8 @@
+/* Example media query for screens smaller than 768px (typical smartphones) */
+@media only screen and (max-width: 768px) {
+    /* Styles for smaller screens */
+}
+
 *{
     margin: 0;
     padding: 0;
